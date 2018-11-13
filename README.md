@@ -1,6 +1,14 @@
 # CCF-jijin
 基金间的相关性预测-chantcalf
 
+队员：
+
+chantcalf
+
+我是鲜肉--永远不皱
+
+我吃火锅，你吃火锅底料
+
 keras+tensorflow
 
 ## CCF 2018 基金间的相关性预测 
