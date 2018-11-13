@@ -32,7 +32,7 @@ keras+tensorflow
 
 不过随机性大，下面这种有时候线上也不错
 
-![seq2seq_result1](https://github.com/chantcalf/CCF-jijin/blob/master/result1.png）
+![seq2seq_result1](https://github.com/chantcalf/CCF-jijin/blob/master/result1.png)
 
 ### image2image
 
